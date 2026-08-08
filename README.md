@@ -95,7 +95,7 @@ Ensure the deployment server meet the following requirements:
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/Task_2_Web_Application-_Development_Vehicle_Gate-_Operations.git
+git https://github.com/ALLAN-MBOTI/Task_2_Web_Application-_Development_Vehicle_Gate-_Operations.git
 cd Task_2_Web_Application-_Development_Vehicle_Gate-_Operations
 
 ```
